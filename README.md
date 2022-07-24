@@ -1,4 +1,5 @@
-### Hii🐬
+### Hi, Bem Vindo(a)! Eu sou estudante do ensino médio e amo desenvolvimento!
+
 
  <div align="center">
 
@@ -6,7 +7,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavnisy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavnisy&layout=compact&langs_count=3&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavnisy&layout=compact&langs_count=3&theme=merko"/>
  
 </div>
 
