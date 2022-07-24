@@ -1,7 +1,7 @@
-### Hi,I'm Lav!💚
+## Hi,I'm Lav!💚
 
 
- <div align="center">
+ <div align="right">
 
   <a href="https://github.com/lavnisy">
 
