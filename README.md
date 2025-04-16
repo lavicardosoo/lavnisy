@@ -19,13 +19,5 @@ Aqui compartilho meus projetos de programação e alguns experimentos criativos!
 
 ---
 
-## 📈 GitHub Stats:
-
-![Lavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavicardosoo&show_icons=true&theme=radical)
-
----
-
-
 ## 💖 Obrigada por passar por aqui!  
-Sinta-se à vontade para explorar meus projetos, dar aquela ⭐ e trocar ideia comigo!
 
