@@ -15,13 +15,13 @@ Aqui compartilho meus projetos de programação e alguns experimentos criativos!
 
 ## 📊 Linguagens e Tecnologias que uso:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuuseraqui&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavicardosoo&layout=compact&theme=radical)
 
 ---
 
 ## 📈 GitHub Stats:
 
-![Lavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuuseraqui&show_icons=true&theme=radical)
+![Lavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavicardosoo&show_icons=true&theme=radical)
 
 ---
 
